@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/marcelofguedes)
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=martchelsko&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martchelsko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
