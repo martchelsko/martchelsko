@@ -56,8 +56,8 @@ Building my journey in software development, one project at a time. 💻
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=martchelsko&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martchelsko&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=martchelsko&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=martchelsko&layout=compact&theme=tokyonight" />
 </p>
 
 ---
